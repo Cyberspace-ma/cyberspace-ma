@@ -76,7 +76,7 @@ CTF challenges are typically divided into several categories. Below is a brief o
 
 ### 5. **Forensics**
    - Analyze digital artifacts such as memory dumps, network traffic, and file systems to uncover hidden flags.
-   - Common Tools: Volatility, Wireshark, Binwalk.
+   - Common Tools: Volatility, Wireshark, FTK Imager.
 
 ### 6. **Miscellaneous**
    - Challenges that don't fit into the above categories, often requiring creative thinking and problem-solving skills.
