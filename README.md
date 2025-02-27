@@ -129,7 +129,7 @@ Here are some essential tools that you might find useful for CTF challenges:
 ### Forensics
 - **Volatility**: A memory forensics framework.
 - **Wireshark**: A network protocol analyzer.
-- **Binwalk**: A firmware analysis tool.
+- **FTK Imager**: Forensic disk imaging tool.
 
 ---
 
